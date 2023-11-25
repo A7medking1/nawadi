@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>205643242944-rg7afbd6pb15m2pp6ffc7k86rq2nedae.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.205643242944-rg7afbd6pb15m2pp6ffc7k86rq2nedae</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0GPVj0a2-SYorxm6Qebj3zz2iHAPQiV8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>205643242944</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.alnawadi</string>
+	<key>PROJECT_ID</key>
+	<string>alnawadi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alnawadi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:205643242944:ios:09f0711627350a6530fc25</string>
+</dict>
+</plist>

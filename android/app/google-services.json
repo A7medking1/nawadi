@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205643242944",
+    "project_id": "alnawadi",
+    "storage_bucket": "alnawadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205643242944:android:093b8a020b1761b030fc25",
+        "android_client_info": {
+          "package_name": "com.example.alnawadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205643242944-90igkivs8kj8d75p40a43mg4b21mjd89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6skscrZlV4EwWqvP5I7n0ixWkKHPpwwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205643242944-90igkivs8kj8d75p40a43mg4b21mjd89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
